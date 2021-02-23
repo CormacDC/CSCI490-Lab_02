@@ -1,6 +1,4 @@
 <resources>
     <string name="app_name">CormacConahanLab02</string>
-    <string name="title">Enter Text Below</string>
-    <string name="button">Go</string>
-    <string name="textview"></string>
+    <string name="button">Set Background</string>
 </resources>
